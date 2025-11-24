@@ -1,4 +1,4 @@
-Flask
 cloudscraper
 faker
 pycryptodome
+mangum
